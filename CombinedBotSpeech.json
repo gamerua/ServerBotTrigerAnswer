@@ -147,5 +147,16 @@
       "manjaro"
     ],
     "Percentage": 35
+  },
+  {
+    "Answers": [
+      "які жарти про KDE ви знаєте?",
+      "скільки жарти про KDE ви знаєте, %username%?"
+    ],
+    "Triggers": [
+      "кде",
+      "KDE"
+    ],
+    "Percentage": 35
   }
 ]
