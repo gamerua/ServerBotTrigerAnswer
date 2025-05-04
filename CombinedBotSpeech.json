@@ -1,0 +1,151 @@
+[
+  {
+    "Answers": [
+      "Houston, we have a problem",
+      "агов, пс! хочеш купу проблем на купі клієнтів на андроїдах?"
+    ],
+    "Triggers": [
+      "проблема"
+    ],
+    "Percentage": 4
+  },
+  {
+    "Answers": [
+      "Life is the Emperor\u0027s currency, spend it well. (с) Codex: Black Templars (4th Edition), page 48 ",
+      "Only in your deepest self is the truth of what you can be. And, without a doubt, that truth is terrible to bear. (с) Book of the Astronomican, p. 70 ",
+      "Stories have neat, happy endings, but all you ever really get is unfinished business. (с) Ciaphas Cain",
+      "Paranoia is a very comforting state of mind. If you think they\u0027re out to get you, it means you think you matter. (с) Ciaphas Cain",
+      "The one constant in the universe is change. (c) Codex: Tau (3rd Edition), p. 66 , Heraclitus, actually",
+      "Events of great moment are but the culmination of a single carefully placed thought. (c) Garba Mojaro, Technomagos of the Adeptus Mechanicus ",
+      "Serve this machine, as you would have fight it for you. (c) Warhammer 40,000 Compendium, p. 84 ",
+      "Though I walk through the valley of the shadow of the daemon, I shall fear nothing. For I am what the daemon fears. (c) Grand Master Mandulis of the Grey Knights",
+      "Things are very seldom what they seem. In my experience, they’re usually a damn sight worse. (c) Inquisitor Titus Drake",
+      "If the road is easy, the destination is worthless. (c) Saint Sabbat",
+      "Pain is an illusion of the senses, despair an illusion of the mind. (c) Codex: Black Templars (4th Edition), page 17 ",
+      "In an hour of Darkness a blind man is the best guide. In an age of Insanity look to the madman to show the way. (c) Warhammer 40,000 3rd Edition Rulebook, page 38 ",
+      "Hard work conquers everything. (c) 4th Edition Rulebook, page 253 ",
+      "For those who seek perfection - there can be no rest this side of the grave. (c) Rogue Trader ",
+      "For every battle honour, a thousand heroes die alone, unsung, and unremembered. (c) 3rd Edition Rulebook, page 159;",
+      "Fear not the creatures of the jungle but those that lurk within your mind. (c) Codex: Catachans (3rd Edition), page 22 ",
+      "Fear is the Mind Killer. (c) Rogue Trader, page 78 ",
+      "Facts are chains that bind perception and fetter truth. For a man can remake the world if he has a dream and no facts to cloud his mind. (c) 3rd Edition Rulebook, page 70 ",
+      "Pity ye Not! (c)  \tImperial Armour Volume One - Imperial Guard and Imperial Navy, page 46 ",
+      "Duty prevails. (c) 4th Edition Rulebook, page 258 ",
+      "Only the insane have strength enough to prosper. Only those who prosper can judge what is sane. (c) Codex: Space Marines (4th Edition), page 65 ",
+      "Pain is merely weakness leaving the body.",
+      "Heresy grows from idleness. (c) Codex: Black Templars (4th Edition), page 44;",
+      "Hope is the first step on the road to disappointment. (c) Codex: Imperial Guard (4th Edition), page 59;",
+      "A suspicious mind is a healthy mind. (c) 4th Edition Rulebook, page 47 ",
+      "Happiness is a delusion of the weak. (c) 4th Edition Rulebook, page 216 ",
+      "Zeal is its own excuse. (c) Black Templars (4th Edition), page 56;",
+      "Work earns salvation. (c) 4th Edition Rulebook, page 227 ",
+      "Wisdom is the beginning of fear. (c) Codex: Eye of Terror (3rd Edition), page 15",
+      "True happiness stems only from duty. (c) 4th Edition Rulebook, page 187 ",
+      "The truly wise are always afraid. (c) 4th Edition Rulebook, page 222 ",
+      "Ruthlessness is the kindness of the wise. (c) Codex: Black Templars (4th Edition), page 49",
+      "Reason begets doubt; Doubt begets heresy. (c) 4th Edition Rulebook, page 81",
+      "Success is commemorated. Failure merely remembered. (c) Codex: Space Marines (4th Edition), page 27"
+    ],
+    "Triggers": [
+      "вархамер",
+      "warhammer"
+    ],
+    "Percentage": 100
+  },
+  {
+    "Answers": [
+      "от ти їси, а бот голодний",
+      "поїж, тільки не викидай їжу"
+    ],
+    "Triggers": [
+      "поїм",
+      "пообідаю",
+      "поїсти"
+    ],
+    "Percentage": 30
+  },
+  {
+    "Answers": [
+      "про який фікс може йти розмова? без ТЗ результат ХЗ!"
+    ],
+    "Triggers": [
+      "фікс",
+      "виправлення",
+      "bug fix"
+    ],
+    "Percentage": 66
+  },
+  {
+    "Answers": [
+      "you see a tortoise, crawling toward you. You reach down, you flip the tortoise over on its back. The tortoise lays on its back, its belly baking in the hot sun, beating its legs trying to turn itself over, but it can’t, not without your help. But you’re not helping. Why is that?"
+    ],
+    "Triggers": [
+      "tortoise",
+      "turtle",
+      "черепаха",
+      "черепашка",
+      "черепахи",
+      "bladerunner",
+      "blade runner"
+    ],
+    "Percentage": 20
+  },
+  {
+    "Answers": [
+      "Точно, список! _записує його в список_"
+    ],
+    "Triggers": [
+      "список",
+      "списку"
+    ],
+    "Percentage": 2
+  },
+  {
+    "Answers": [
+      "тут хто перший халат надягнув, той і доктор"
+    ],
+    "Triggers": [
+      "псих",
+      "збожеволів",
+      "схибнувся"
+    ],
+    "Percentage": 2
+  },
+  {
+    "Answers": [
+      "ти як сова",
+      "ти як :owl:"
+    ],
+    "Triggers": [
+      "угу",
+      "угу)"
+    ],
+    "Percentage": 3
+  },
+  {
+    "Answers": [
+      "якщо так продовжувти, через 10-20-30 років ти будеш ніким"
+    ],
+    "Triggers": [
+      "потім зроблю",
+      "іншим разом",
+      "потім напишу",
+      "коли-небудь треба",
+      "запланував",
+      "в наступному році",
+      "на наступний рік"
+    ],
+    "Percentage": 45
+  },
+  {
+    "Answers": [
+      "I use arch btw"
+    ],
+    "Triggers": [
+      "arch",
+      "арч",
+      "manjaro"
+    ],
+    "Percentage": 35
+  }
+]
