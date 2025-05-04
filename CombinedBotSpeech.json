@@ -139,13 +139,15 @@
   },
   {
     "Answers": [
-      "I use arch btw"
+      "I use arch btw",
+      "який в біса arch, он Павло Козленко каже: Став нормально федору",
+      "хто про що, а %username% знову про свій арч. Набрид вже"
     ],
     "Triggers": [
       "arch",
       "арч",
       "manjaro"
     ],
-    "Percentage": 35
+    "Percentage": 13
   }
 ]
